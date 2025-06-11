@@ -24,19 +24,10 @@ One-liner about the use case and your role.
 - 🛠 Tech: Django, PostgreSQL, Docker
 - 📊 Highlight: RESTful APIs with Swagger Docs
 
-### 🔹 [Microservices Boilerplate](https://github.com/yourusername/microservices-starter)
-A boilerplate for scalable microservices using gRPC, Kafka, and Docker Compose.
-- ⚙️ Languages: Python & Go
+### 🔹 [Microservices](https://github.com/bunrongGithub/pos.git)
+A boilerplate for scalable microservices using Rest API, and Docker Compose.
+- ⚙️ Languages: Javascript & TypeScript
 - 📦 Designed for rapid prototyping with full CI/CD setup
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide=issues&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark" height="150" />
-</p>
 
 ---
 
