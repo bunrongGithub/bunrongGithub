@@ -14,7 +14,7 @@ Welcome to my GitHub portfolio! I'm a passionate Software Engineer, Web Develope
 
 ## 🧩 Featured Projects
 
-### 🔹 [Project Name](https://github.com/yourusername/project-repo)
+### 🔹 [ICase](https://github.com/bunrongGithub/icase.git)
 Short description of the project, what it does, and key technologies used.
 - 🔧 Built with: React, Node.js, MongoDB
 - 🚀 Features: Realtime chat, authentication, and deployment on Vercel
