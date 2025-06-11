@@ -12,17 +12,17 @@ Welcome to my GitHub portfolio! I'm a passionate Software Engineer, Web Develope
 
 ---
 
-## 🧩 Featured Projects
+## 🧩 Experiences
 
 ### 🔹 [ICase](https://github.com/bunrongGithub/icase.git)
 Short description of the project, what it does, and key technologies used.
-- 🔧 Built with: React, Node.js, MongoDB
-- 🚀 Features: Realtime chat, authentication, and deployment on Vercel
+- 🔧 Built with: NextJS, Node.js, MongoDB, CI/CD Aws 
+- 🚀 Features: Realtime chat with telegram bot, authentication, and deployment on Aws EC2 & SST
 
-### 🔹 [Another Project](https://github.com/yourusername/another-project)
+### 🔹 [GRPC orchestrator](https://github.com/bunrongGithub/gluster-docker.git)
 One-liner about the use case and your role.
-- 🛠 Tech: Django, PostgreSQL, Docker
-- 📊 Highlight: RESTful APIs with Swagger Docs
+- 🛠 Built with: GRPC, Docker, AWS,Python 
+- 📊 Highlight: Protobufer Service to Service communication 
 
 ### 🔹 [Microservices](https://github.com/bunrongGithub/pos.git)
 A boilerplate for scalable microservices using Rest API, and Docker Compose.
@@ -33,16 +33,7 @@ A boilerplate for scalable microservices using Rest API, and Docker Compose.
 
 ## 📫 Get in Touch
 
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 📩 Email: [you@example.com](mailto:you@example.com)
+- 🌐 Portfolio: [https://goodboy-nock.onrender.com/html/](https://goodboy-nock.onrender.com/html/)
+- 💼 LinkedIn: [https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+- 📩 Email: [bunbunrong993@gmail.com](mailto:bunbunrong993@gmail.com)
 
----
-
-## ✨ Fun Facts
-
-- 🔭 I’m currently working on: [Your current project or area of study]
-- 🌱 I’m learning: [New technology or tool you're exploring]
-- 🎯 2025 Goal: [Your tech or career goal]
-- 💬 Ask me about: APIs, microservices, Docker, or anything dev-related!
