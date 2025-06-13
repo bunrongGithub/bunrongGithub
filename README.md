@@ -19,11 +19,16 @@ Short description of the project, what it does, and key technologies used.
 - 🔧 Built with: NextJS, Node.js, MongoDB, CI/CD Aws 
 - 🚀 Features: Realtime chat with telegram bot, authentication, and deployment on Aws EC2 & SST
 
-### 🔹 [GRPC orchestrator](https://github.com/bunrongGithub/gluster-docker.git)
+### 🔹 [GRPC orchestrator](https://github.com/bunrongGithub/grpc_orchestrator/tree/backup/simple_python_sdk)
 One-liner about the use case and your role.
 - 🛠 Built with: GRPC, Docker, AWS,Python 
-- 📊 Highlight: Protobufer Service to Service communication 
-
+- 📊 Highlight: Protobufer Service to Service communication
+  ---
+### 🔹 [GlusterFS](https://github.com/bunrongGithub/gluster-docker.git)
+A boilerplate for scalable microservices using Rest API, and Docker Compose.
+- ⚙️ Languages: GlsuterFS & AWS, Shell
+- 📦 Designed for file replicate accross multiple distributions
+  ---
 ### 🔹 [Microservices](https://github.com/bunrongGithub/pos.git)
 A boilerplate for scalable microservices using Rest API, and Docker Compose.
 - ⚙️ Languages: Javascript & TypeScript
