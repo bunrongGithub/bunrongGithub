@@ -15,12 +15,10 @@ Welcome to my GitHub portfolio! I'm a passionate Software Engineer, Web Develope
 ## 🧩 Experiences
 
 ### 🔹 [ICase](https://github.com/bunrongGithub/icase.git)
-Short description of the project, what it does, and key technologies used.
 - 🔧 Built with: NextJS, Node.js, MongoDB, CI/CD Aws 
 - 🚀 Features: Realtime chat with telegram bot, authentication, and deployment on Aws EC2 & SST
 
 ### 🔹 [GRPC orchestrator](https://github.com/bunrongGithub/grpc_orchestrator/tree/backup/simple_python_sdk)
-One-liner about the use case and your role.
 - 🛠 Built with: GRPC, Docker, AWS,Python 
 - 📊 Highlight: Protobufer Service to Service communication
   ---
