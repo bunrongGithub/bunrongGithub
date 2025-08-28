@@ -1,42 +1,66 @@
-# Hi there, I'm RONG 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
+</div>
 
-Welcome to my GitHub portfolio! I'm a passionate Software Engineer, Web Developer, who loves building impactful software, learning new technologies, and solving real-world problems.
-
----
-
-## 🧰 Tech Stack
-
-![Languages](https://skillicons.dev/icons?i=python,typescript,javascript,html,css,java)
-![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,django,express,flask)
-![Tools](https://skillicons.dev/icons?i=git,docker,kubernetes,linux,aws,mongodb,postgres)
-
----
-
-## 🧩 Experiences
-
-### 🔹 [ICase](https://github.com/bunrongGithub/icase.git)
-- 🔧 Built with: NextJS, Node.js, MongoDB, CI/CD Aws 
-- 🚀 Features: Realtime chat with telegram bot, authentication, and deployment on Aws EC2 & SST
-
-### 🔹 [GRPC orchestrator](https://github.com/bunrongGithub/grpc_orchestrator/tree/backup/simple_python_sdk)
-- 🛠 Built with: GRPC, Docker, AWS,Python 
-- 📊 Highlight: Protobufer Service to Service communication
-  ---
-### 🔹 [GlusterFS](https://github.com/bunrongGithub/gluster-docker.git)
-A boilerplate for scalable microservices using Rest API, and Docker Compose.
-- ⚙️ Languages: GlsuterFS & AWS, Shell
-- 📦 Designed for file replicate accross multiple distributions
-  ---
-### 🔹 [Microservices](https://github.com/bunrongGithub/pos.git)
-A boilerplate for scalable microservices using Rest API, and Docker Compose.
-- ⚙️ Languages: Javascript & TypeScript
-- 📦 Designed for rapid prototyping with full CI/CD setup
+<div id="badges" align="center">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</div>
 
 ---
 
-## 📫 Get in Touch
+# 👋 Hi
 
-- 🌐 Portfolio: [https://goodboy-nock.onrender.com/html/](https://goodboy-nock.onrender.com/html/)
-- 💼 LinkedIn: [https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
-- 📩 Email: [bunbunrong993@gmail.com](mailto:bunbunrong993@gmail.com)
+🚀 Passionate developer specialized in **Web Development, APIs, and Microservices**.  
+I enjoy building scalable systems, exploring modern frameworks, and crafting efficient solutions.  
 
+- 🔭 Currently working on: **Microservices & API Gateways**
+- 🌱 Learning: **gRPC, Next.js, Cloud & DevOps**
+- 💡 Interests: **Backend Architecture, System Design, Automation**
+- 📫 Reach me at: **bunbunrong993@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</div>
+
+---
+<div align="center">
+  <!-- Total stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=bunrongGithub&show_icons=true&theme=radical" height="160"/>
+
+  <!-- Streak stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bunrongGithub&theme=radical" height="160"/>
+</div>
+
+<div align="center">
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunrongGithub&layout=compact&theme=radical" height="160"/>
+</div>
+
+<div align="center">
+  <!-- Commit graph / contribution chart -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=bunrongGithub&theme=radical&hide_border=true" />
+</div>
+
+---
+
+⭐️ *“Code is like humor. When you have to explain it, it’s bad.”*  
