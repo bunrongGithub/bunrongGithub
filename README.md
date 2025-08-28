@@ -45,20 +45,20 @@ I enjoy building scalable systems, exploring modern frameworks, and crafting eff
 ---
 <div align="center">
   <!-- Total stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=bunrongGithub&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bunrongGithub&show_icons=true&theme=dark" height="160"/>
 
   <!-- Streak stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bunrongGithub&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bunrongGithub&theme=dark" height="160"/>
 </div>
 
 <div align="center">
   <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunrongGithub&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunrongGithub&layout=compact&theme=dark" height="160"/>
 </div>
 
 <div align="center">
   <!-- Commit graph / contribution chart -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=bunrongGithub&theme=radical&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=bunrongGithub&theme=dark&hide_border=true" />
 </div>
 
 ---
