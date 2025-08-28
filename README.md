@@ -16,20 +16,6 @@
 
 ---
 
-# 👋 Hi
-
-🚀 Passionate developer specialized in **Web Development, APIs, and Microservices**.  
-I enjoy building scalable systems, exploring modern frameworks, and crafting efficient solutions.  
-
-- 🔭 Currently working on: **Microservices & API Gateways**
-- 🌱 Learning: **gRPC, Next.js, Cloud & DevOps**
-- 💡 Interests: **Backend Architecture, System Design, Automation**
-- 📫 Reach me at: **bunbunrong993@gmail.com**
-
----
-
-## 🛠️ Tech Stack
-
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
