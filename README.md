@@ -28,25 +28,20 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </div>
 
+
 ---
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
   <!-- Total stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=bunrongGithub&show_icons=true&theme=dark" height="160"/>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=bunrongGithub&show_icons=true&theme=dark" height="160"/>
+  </div>
 
-  <!-- Streak stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bunrongGithub&theme=dark" height="160"/>
-</div>
-
-<div align="center">
   <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunrongGithub&layout=compact&theme=dark" height="160"/>
-</div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunrongGithub&layout=compact&theme=dark" height="160"/>
+  </div>
 
-<div align="center">
-  <!-- Commit graph / contribution chart -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=bunrongGithub&theme=dark&hide_border=true" />
 </div>
-
 ---
-
 ⭐️ *“Code is like humor. When you have to explain it, it’s bad.”*  
